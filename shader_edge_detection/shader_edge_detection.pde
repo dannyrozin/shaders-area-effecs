@@ -1,4 +1,4 @@
-// The world pixel by pixel 2017
+// The world pixel by pixel 2018
 // Daniel Rozin
 // use fragment shader to do edge detection of live video
 
