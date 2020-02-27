@@ -1,4 +1,8 @@
 
+// The world pixel by pixel 2020
+// Daniel Rozin
+// fragment shader to create edge detection effect
+
 #ifdef GL_ES
 precision mediump float;
 precision mediump int;
